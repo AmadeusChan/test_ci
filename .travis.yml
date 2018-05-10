@@ -1,2 +1,3 @@
 language: python
-scipt: python test.py
+scipt: 
+        - python test.py
